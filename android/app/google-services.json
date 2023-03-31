@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982526738318",
+    "project_id": "ezfootesti",
+    "storage_bucket": "ezfootesti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982526738318:android:f4b758e232b4e23c5faedf",
+        "android_client_info": {
+          "package_name": "com.example.ezfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982526738318-7l46irlarc6931bh070j16lp41i9l3ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNi_4SXNIYAn5Vr8tr2rM-ucDwqtM54Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982526738318-7l46irlarc6931bh070j16lp41i9l3ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

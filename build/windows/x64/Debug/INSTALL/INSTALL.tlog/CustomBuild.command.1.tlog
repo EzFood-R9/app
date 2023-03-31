@@ -1,0 +1,10 @@
+^C:\USERS\TMKYL\DOCUMENTS\OAMK\MOBIILIROJEKTI K23\UUSIN\APP\EZFOOD\BUILD\WINDOWS\CMAKEFILES\BE07E49A099BFB96F63BA10F913D3C34\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

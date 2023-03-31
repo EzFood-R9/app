@@ -1,0 +1,13 @@
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/runner/CMakeFiles/ezfood.dir
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/plugins/url_launcher_windows/CMakeFiles/INSTALL.dir
+C:/Users/tmkyl/Documents/OAMK/Mobiilirojekti K23/uusin/app/ezfood/build/windows/plugins/url_launcher_windows/CMakeFiles/ALL_BUILD.dir
